@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "616073056318",
+    "project_id": "mychat-99f1f",
+    "storage_bucket": "mychat-99f1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:616073056318:android:bdecf5a718cc1b7049c16f",
+        "android_client_info": {
+          "package_name": "com.example.mychat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBsiIweDv0pstuvYBH46wRcGEFSXRmES7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
